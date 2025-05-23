@@ -1,94 +1,97 @@
-<h1 align="center">👋 Hi, I'm Salma Hussein Ahmed</h1>
+<h1 align="center" style="color:#003366;">👩‍💻 Salma Hussein Ahmed</h1>
+<p align="center" style="font-size:16px;">Full Stack Open Source Developer | Laravel, Vue, Node, Angular, Django</p>
 
 <p align="center">
-  💻 Full Stack Open Source Developer | 🚀 Passionate about Web & Odoo Development
-</p>
-
-<p align="center">
-  <a href="mailto:salma.hussein.ahmedd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/salma-hussein-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Salma457"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:salma.hussein.ahmedd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/salma-hussein-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Salma457"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧾 Summary
-I'm a **Junior Full Stack Web Developer & Odoo Developer** with hands-on experience in building web applications using Laravel, Vue.js, Angular, Node.js, Django, React, and Odoo.  
-Graduated with honors in **Business Information Systems** and completed a **9-Month Open Source Track** at the ITI (Information Technology Institute). I love clean code, teamwork, and continuous learning.
+## 🚀 Summary
+
+Junior Full Stack Developer with a passion for building responsive, secure, and scalable web applications. Strong foundation in open source technologies and solid experience in:
+
+- 🧩 Laravel, Node.js, Django, Odoo
+- 🎨 Vue, Angular, React, Tailwind
+- 🗃️ MongoDB, MySQL
+- 💡 Clean Code, Git, REST APIs
+
+Graduated with **Excellence** from Assuit University and completed the **9-Month Open Source Track** at ITI.
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-- **Information Technology Institute (ITI)** – Open Source Track (2025)  
-- **Assuit University** – Business Information Systems, Faculty of Commerce (2024)  
-  💯 *Graduated with Excellent Degree*
+**🎓 Information Technology Institute (ITI)**  
+*Open Source Track - 2025*
 
----
-
-### 💼 Experience
-
-#### 👩‍💻 Freelance Developer – 2025  
-**Hadanat Al-Furqan Kindergarten Management System**
-- Built a complete web system using Angular and Node.js
-- Designed a responsive UI and implemented secure login functionality
+**🎓 Assuit University**  
+*Business Information Systems - Excellent Degree (2024)*
 
 ---
 
-### 🚀 Projects
+## 💼 Experience
 
-| Project | Link |
-|--------|------|
-| 🎯 **Job Platform** – [Backend (Laravel)](https://github.com/Salma457/vue-laravel-projectBackend.git) · [Frontend (Vue.js)](https://github.com/amira-ateya/vue-laravel-project.git) |
-| 🏫 **School System** – [Backend (Node.js)](https://github.com/Salma457/School_System_Node.js.git) · [Frontend (Angular)](https://github.com/Salma457/Shcool_System.git) |
-| 🏥 **Medical System** – [Backend (Django)](https://github.com/aliaa11/MedicalProject-React-Django-Backend.git) · [Frontend (React)](https://github.com/aliaa11/MedicalProject-React-Django-) |
-| 📚 **E-Learning System** – [Full Stack (Firebase & JS)](https://github.com/Salma457/E-Learning-Project.git) |
-| 🌍 **Adventures App (Vue)** – [GitHub](https://github.com/Salma457/Vue-Project) |
-| 🛒 **Angular E-Commerce** – [GitHub](https://github.com/Salma457/E-Commerce-Angular) |
-| 🎨 **Bootstrap E-Commerce** – [GitHub](https://github.com/Salma457/bootStrap_Project) |
-| ☕ **Cafeteria System (PHP & MySQL)** – [GitHub](https://github.com/Salma457/php_project) |
+**Freelance Developer – Hadanat Al-Furqan System (2025)**  
+Developed a full-featured Kindergarten Management System using **Angular + Node.js**, including secure authentication, dashboards, and modern UI/UX.
 
 ---
 
-### 🛠️ Technical Skills
+## 🔧 Technical Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS  
-- **Frameworks:** Vue.js, Angular, React, Next.js  
-- **Backend:** PHP, Node.js, Express.js, Laravel, Django, Odoo  
-- **Databases:** MySQL, MongoDB  
-
----
-
-### 📚 Courses & Trainings
-
-- NTI Web Development Training (1 Month)
-- SQL (Basic) – HackerRank  
-- Java Programming – Udemy  
-- Linux Essentials – Mahara-Tech  
-- Frontend Web Development – Mahara-Tech  
-- Backend Web Development – Mahara-Tech  
-- Database Fundamentals – Mahara-Tech  
+| Frontend     | Frameworks          | Backend              | Databases      |
+|--------------|---------------------|-----------------------|----------------|
+| HTML5, CSS3, JS, Bootstrap, Tailwind | Vue, Angular, React, Next | PHP, Laravel, Node.js, Django, Odoo | MySQL, MongoDB |
 
 ---
 
-### 🌍 Languages
+## 🌟 Projects Showcase
 
-- Arabic (Native)  
-- English (Professional)  
+### 🧠 Graduation & Training Projects
+
+| Project | Frontend | Backend |
+|--------|----------|---------|
+| [Job Platform](https://github.com/amira-ateya/vue-laravel-project.git) | Vue.js | [Laravel](https://github.com/Salma457/vue-laravel-projectBackend.git) |
+| [School System](https://github.com/Salma457/Shcool_System.git) | Angular | [Node.js](https://github.com/Salma457/School_System_Node.js.git) |
+| [Medical System](https://github.com/aliaa11/MedicalProject-React-Django-) | React | [Django](https://github.com/aliaa11/MedicalProject-React-Django-Backend.git) |
+| [E-Learning App](https://github.com/Salma457/E-Learning-Project.git) | Firebase + JS | -- |
+
+### 🌍 Other Projects
+
+- 🎮 [Vue Adventures App](https://github.com/Salma457/Vue-Project)
+- 🛒 [Angular E-Commerce](https://github.com/Salma457/E-Commerce-Angular)
+- 🧼 [Bootstrap E-Commerce](https://github.com/Salma457/bootStrap_Project)
+- 🍽️ [PHP Cafeteria System](https://github.com/Salma457/php_project)
+
+---
+
+## 📚 Courses & Certifications
+
+- 🖥️ NTI Web Development (1 Month)
+- 🐧 Linux Essentials – Mahara-Tech  
+- 🧑‍💻 Frontend / Backend Web Development – Mahara-Tech  
+- 🗃️ SQL (Basic) – HackerRank  
+- ☕ Java Programming – Udemy  
+- 📊 Database Fundamentals – Mahara-Tech  
 
 ---
 
-### ❤️ Volunteering
+## 🤝 Volunteering
 
-- Member at **Life Makers Foundation**
+- ❤️ Member at **Life Makers Foundation**
+
+---
+
+## 🌐 Let's Connect
+
+📍 Zahraa Street, Minya, Egypt  
+📞 01029229478  
+✉️ salma.hussein.ahmedd@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/salma-hussein-ahmed/) | [GitHub](https://github.com/Salma457)
 
 ---
 
-### 📫 Contact Me
+> ✨ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
-- 📧 Email: [salma.hussein.ahmedd@gmail.com](mailto:salma.hussein.ahmedd@gmail.com)  
-- 🌍 Location: Minya City, Egypt  
-- 🔗 LinkedIn: [linkedin.com/in/salma-hussein-ahmed](https://www.linkedin.com/in/salma-hussein-ahmed/)  
-- 💼 Portfolio: [github.com/Salma457](https://github.com/Salma457)
-
----
