@@ -1,63 +1,94 @@
-<h1 align="center">Hi 👋, I'm Salma Hussein</h1>
-<h3 align="center">A passionate Full Stack Developer (Laravel & Vue.js | Node.js & Angular)</h3>
+<h1 align="center">👋 Hi, I'm Salma Hussein Ahmed</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Salma457&label=Profile%20views&color=29B473&style=flat" alt="Salma457" />
+  💻 Full Stack Open Source Developer | 🚀 Passionate about Web & Odoo Development
+</p>
+
+<p align="center">
+  <a href="mailto:salma.hussein.ahmedd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/salma-hussein-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Salma457"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-🔹 I'm a recent graduate from <strong>Faculty of Commerce, Assiut University</strong>, BIS Department (2024) with Excellent grade.
-
-🎓 I completed a 9-month scholarship at the <strong>Information Technology Institute (ITI)</strong> - Open Source Track (2025).
-
-🚀 I'm building real-world full stack projects using Laravel, Vue, Node.js, Angular, and MongoDB.
+### 🧾 Summary
+I'm a **Junior Full Stack Web Developer & Odoo Developer** with hands-on experience in building web applications using Laravel, Vue.js, Angular, Node.js, Django, React, and Odoo.  
+Graduated with honors in **Business Information Systems** and completed a **9-Month Open Source Track** at the ITI (Information Technology Institute). I love clean code, teamwork, and continuous learning.
 
 ---
 
-## 🌟 Featured Projects
+### 🎓 Education
 
-- 🎯 [Job Board System](https://github.com/Salma457/vue-laravel-projectBackend.git) — Laravel & Vue.js Fullstack platform for job listings, employer dashboards, and applications.
-- 🏫 [School System](https://github.com/Salma457/School_System_Node.js.git) — Node.js & Angular system for managing students, teachers, and admins.
-- 🍽 [Cafeteria App](https://github.com/Salma457/php_project.git) — PHP & MySQL system with user dashboard, orders, and category-based filtering.
-
----
-
-## 🧰 Tech Stack
-
-**Frontend:**  
-![Vue](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Information Technology Institute (ITI)** – Open Source Track (2025)  
+- **Assuit University** – Business Information Systems, Faculty of Commerce (2024)  
+  💯 *Graduated with Excellent Degree*
 
 ---
 
-## 📈 GitHub Stats
+### 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salma457&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salma457&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: [salma-hussein-ahmed](https://www.linkedin.com/in/salma-hussein-ahmed)
-- 📧 Email: salma.hussein.dev@gmail.com
-- 🧠 Portfolio: Coming soon!
+#### 👩‍💻 Freelance Developer – 2025  
+**Hadanat Al-Furqan Kindergarten Management System**
+- Built a complete web system using Angular and Node.js
+- Designed a responsive UI and implemented secure login functionality
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+%2B+Vue.js+Specialist;Node.js+%2B+Angular+Fan;Always+learning...&center=true&width=500&height=45">
-</p>
+### 🚀 Projects
+
+| Project | Link |
+|--------|------|
+| 🎯 **Job Platform** – [Backend (Laravel)](https://github.com/Salma457/vue-laravel-projectBackend.git) · [Frontend (Vue.js)](https://github.com/amira-ateya/vue-laravel-project.git) |
+| 🏫 **School System** – [Backend (Node.js)](https://github.com/Salma457/School_System_Node.js.git) · [Frontend (Angular)](https://github.com/Salma457/Shcool_System.git) |
+| 🏥 **Medical System** – [Backend (Django)](https://github.com/aliaa11/MedicalProject-React-Django-Backend.git) · [Frontend (React)](https://github.com/aliaa11/MedicalProject-React-Django-) |
+| 📚 **E-Learning System** – [Full Stack (Firebase & JS)](https://github.com/Salma457/E-Learning-Project.git) |
+| 🌍 **Adventures App (Vue)** – [GitHub](https://github.com/Salma457/Vue-Project) |
+| 🛒 **Angular E-Commerce** – [GitHub](https://github.com/Salma457/E-Commerce-Angular) |
+| 🎨 **Bootstrap E-Commerce** – [GitHub](https://github.com/Salma457/bootStrap_Project) |
+| ☕ **Cafeteria System (PHP & MySQL)** – [GitHub](https://github.com/Salma457/php_project) |
+
+---
+
+### 🛠️ Technical Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS  
+- **Frameworks:** Vue.js, Angular, React, Next.js  
+- **Backend:** PHP, Node.js, Express.js, Laravel, Django, Odoo  
+- **Databases:** MySQL, MongoDB  
+
+---
+
+### 📚 Courses & Trainings
+
+- NTI Web Development Training (1 Month)
+- SQL (Basic) – HackerRank  
+- Java Programming – Udemy  
+- Linux Essentials – Mahara-Tech  
+- Frontend Web Development – Mahara-Tech  
+- Backend Web Development – Mahara-Tech  
+- Database Fundamentals – Mahara-Tech  
+
+---
+
+### 🌍 Languages
+
+- Arabic (Native)  
+- English (Professional)  
+
+---
+
+### ❤️ Volunteering
+
+- Member at **Life Makers Foundation**
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [salma.hussein.ahmedd@gmail.com](mailto:salma.hussein.ahmedd@gmail.com)  
+- 🌍 Location: Minya City, Egypt  
+- 🔗 LinkedIn: [linkedin.com/in/salma-hussein-ahmed](https://www.linkedin.com/in/salma-hussein-ahmed/)  
+- 💼 Portfolio: [github.com/Salma457](https://github.com/Salma457)
+
+---
