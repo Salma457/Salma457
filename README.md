@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate Junior Full Stack Web Developer & Odoo Developer with a strong foundation in modern open-source technologies. I enjoy building scalable, maintainable applications and working in collaborative environments.  
+I'm a passionate Junior Full Stack Web Developer & Odoo Developer with a strong foundation in modern open-source technologies.  
 Graduated with honors in Business Information Systems and completed a **9-month professional training** in the Open Source Track at the Information Technology Institute (ITI).
 
 - 🔭 Currently working as a **freelancer**
@@ -20,17 +20,19 @@ Graduated with honors in Business Information Systems and completed a **9-month 
 
 ---
 
-### 🚀 Projects Highlights
+### 📌 Pinned Projects
 
-Here are some selected projects I've worked on during my ITI training and beyond:
-
-| Backend | Frontend |
-|--------|---------|
-| [Graduation Project (Laravel)](https://github.com/Salma457/Graduation-Project-From-ITI-BackEnd.git) | — |
-| [Job Platform Backend (Laravel)](https://github.com/Salma457/vue-laravel-projectBackend.git) | [Job Platform Frontend (Vue)](https://github.com/amira-ateya/vue-laravel-project.git) |
-| [School System Backend (Node.js)](https://github.com/Salma457/School_System_Node.js.git) | [School System Frontend (Angular)](https://github.com/Salma457/Shcool_System.git) |
-| [Medical System Backend (Django)](https://github.com/aliaa11/MedicalProject-React-Django-Backend.git) | [Medical System Frontend (React)](https://github.com/aliaa11/MedicalProject-React-Django-) |
-| [Cafeteria System (PHP)](https://github.com/Salma457/php_project) | [Vue Adventures App](https://github.com/Salma457/Vue-Project) |
+| 🧠 Project | 🔧 Stack | 🔗 Link |
+|-----------|----------|--------|
+| Graduation Project (Job Board System) | Laravel (Backend) | [🔗 GitHub](https://github.com/Salma457/Graduation-Project-From-ITI-BackEnd.git) |
+| Job Platform – Backend | Laravel | [🔗 GitHub](https://github.com/Salma457/vue-laravel-projectBackend.git) |
+| Job Platform – Frontend | Vue.js | [🔗 GitHub](https://github.com/amira-ateya/vue-laravel-project.git) |
+| School Management System – Backend | Node.js + Express.js | [🔗 GitHub](https://github.com/Salma457/School_System_Node.js.git) |
+| School Management System – Frontend | Angular | [🔗 GitHub](https://github.com/Salma457/Shcool_System.git) |
+| Medical System – Backend | Django | [🔗 GitHub](https://github.com/aliaa11/MedicalProject-React-Django-Backend.git) |
+| Medical System – Frontend | React.js | [🔗 GitHub](https://github.com/aliaa11/MedicalProject-React-Django-) |
+| Cafeteria System | PHP + MySQL | [🔗 GitHub](https://github.com/Salma457/php_project) |
+| Vue Adventures App | Vue.js | [🔗 GitHub](https://github.com/Salma457/Vue-Project) |
 
 ---
 
