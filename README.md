@@ -24,7 +24,8 @@ Graduated with honors in Business Information Systems and completed a **9-month 
 
 | 🧠 Project | 🔧 Stack | 🔗 Link |
 |-----------|----------|--------|
-| Graduation Project (Job Board System) | Laravel (Backend) | [🔗 GitHub](https://github.com/Salma457/Graduation-Project-From-ITI-BackEnd.git) |
+| Graduation Project – Backend | Laravel | [🔗 GitHub](https://github.com/Salma457/Graduation-Project-From-ITI-BackEnd.git) |
+| Graduation Project – Frontend | Angular | [🔗 GitHub](https://github.com/Salma457/Graduation-Project-From-ITI-FrontEnd.git) |
 | Job Platform – Backend | Laravel | [🔗 GitHub](https://github.com/Salma457/vue-laravel-projectBackend.git) |
 | Job Platform – Frontend | Vue.js | [🔗 GitHub](https://github.com/amira-ateya/vue-laravel-project.git) |
 | School Management System – Backend | Node.js + Express.js | [🔗 GitHub](https://github.com/Salma457/School_System_Node.js.git) |
